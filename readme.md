@@ -6,7 +6,7 @@ obs: Não foi possível implementar o scroll infinite para paginação, pois exi
 
 ## Demostração
 
-![gif preview](http://esmirna.com.br/assets/pokedex.gif)
+<img src="http://esmirna.com.br/assets/pokedex.gif" width="480" height="436">
 
 ## Principais Tecnologias usadas.
 
@@ -31,7 +31,7 @@ obs: Não foi possível implementar o scroll infinite para paginação, pois exi
 - Clone this project
 
 ```
-git clone < project-url.git >
+git clone https://github.com/zecampos/pokedex.git
 ```
 
 - [Instale NodeJS](https://nodejs.org/en/) em seu computador.
