@@ -6,7 +6,7 @@ obs: Não foi possível implementar o scroll infinite para paginação, pois exi
 
 ## Demostração
 
-<img src="http://esmirna.com.br/assets/pokedex.gif" width="480" height="436">
+<img src="https://github.com/zecampos/pokedex/blob/master/pokedex.gif" width="480" height="436">
 
 ## Principais Tecnologias usadas.
 
